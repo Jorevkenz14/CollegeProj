@@ -1,0 +1,26 @@
+.bg-1 { 
+    background-color: #1abc9c;
+    color: #ffffff;
+  }
+  .bg-2 { 
+    background-color: #02060e;
+    color: #ffffff;
+  }
+  .bg-3 { 
+    background-color: #f5ecec;
+    color: #555555;
+  }
+
+  .hero
+  {
+    background-image: url("../services.jpg");
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
